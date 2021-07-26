@@ -9,5 +9,5 @@ metadata:
     avp.kubernetes.io/kv-version: "1"
 type: Opaque
 data:
-  username: <username>
-  password: <password>
+  username: user
+  password: pass
